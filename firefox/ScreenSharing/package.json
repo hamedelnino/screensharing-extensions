@@ -1,16 +1,16 @@
 {
-  "id": "ffscreensharing@example.com",
+  "id": "ffscreensharing@hamedelnino",
   "title": "Screen-sharing extension",
   "version": "0.0.1",
   "description": "A screen-sharing extension",
-  "author": "",
+  "author": "hamedelnino",
   "main": "index.js",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
   "permissions": {
-    "private-browsing": true
+    "private-browsing": false
    },
   "license": "MIT",
   "keywords": [
